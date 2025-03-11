@@ -59,7 +59,7 @@ Also a good place to talk about flavor or note questions I have for the DM about
     - Originally I thought this was bad, but I can bring an ally and its still a BA
     - Can I minor conjuration a door or window to use for this?
 - Rope Trick (https://dnd5e.wikidot.com/spell:rope-trick)
-    - Feels thematic, though I don't think I'll always have it prepared.
+    - Feels thematic but in retrospect I'd rather have taken vortex warp first and hoped to discover this later
 - Misty Step (https://dnd5e.wikidot.com/spell:misty-step)
     - The quintessential teleporation spell at early levels
     - Slightly more free in the sense that I dont need any kind of "space" to slip through
