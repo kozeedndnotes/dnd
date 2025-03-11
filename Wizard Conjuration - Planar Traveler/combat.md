@@ -62,7 +62,7 @@
     - Slightly more free in the sense that I dont need any kind of "space" to slip through
     - More restrictive since I cant bring an ally
 - Flaming Sphere (https://dnd5e.wikidot.com/spell:flaming-sphere)
-    - Conjuration spell that does damage. I'd honestly rather replace this with Either of the future options.
+    - Conjuration spell that does damage. I'd honestly rather replace this with Boiling oil.
 
 ### Future options (may need approval)
 - Altheas Travel Tent (http://kpogl.wikidot.com/spell:altheas-travel-tent)
@@ -71,7 +71,7 @@
 - Boiling Oil (http://kpogl.wikidot.com/spell:boiling-oil)
     - Yay hazards
 - Vortex Warp (https://dnd5e.wikidot.com/spell:vortex-warp)
-    - Just a really god teleportation spell
+    - Just a really good teleportation spell
 
 ## 3rd level
 This is unironically the hardest level to choose from as there are so many options for flavor, and also quintessential wizard spells like counterspell.
