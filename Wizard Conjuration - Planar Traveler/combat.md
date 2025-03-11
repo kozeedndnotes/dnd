@@ -1,4 +1,7 @@
 # Spells
+The goal here isn't necessarily to have an exaustive list of spells, its moreso to give insight on how I think about the spells I take, and plan for the future. Part of the fun of being a wizard is that I get those two guaranteed spells per level, but also have the chance to find scrolls and tomes that maybe have some neat applications that I don't consider at first thought.
+
+Also a good place to talk about flavor or note questions I have for the DM about spell interactions.
 
 ## Cantrips
 ### Learned
