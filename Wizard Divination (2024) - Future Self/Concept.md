@@ -9,7 +9,7 @@
 
 ## Flavor Thoughts
 - Eltaor's divination ability comes primarily through a "future self" that may or may not actually be him.
-- Eltaor sees this future self randomly in his waking moments and it may offer unsolicited knowledge or advice (Study bonus action).
+- Eltaor sees this future self randomly in his waking moments and it may offer unsolicited knowledge or advice (Study bonus action from feat).
 - A mirror is embedded into the cover of his spell book, and he often uses it as a way of channeling that "future self" on his terms.
 
 ## Background Thoughts
