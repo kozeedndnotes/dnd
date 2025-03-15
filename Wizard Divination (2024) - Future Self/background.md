@@ -17,7 +17,7 @@
   - Eltin wanted to instill in his sons the importance of being good, just, and kind to their patrons. He'd often make trades below margin when he could afford to do so and was well liked by most.
   - He also treated his employees similarly well.
 
-- ## Departure
+## Departure
 - As the boys grow into adulthood is very clear that Eltin favors Eltaor.
 - At this point, the store no longer deals in silver. The patronage has become more.. unusual and unseemly, and the boys are no longer welcome in meetings.
 - Both boys have a tense relationship with Eltin, suspecting he is involved with something dangerous.
