@@ -45,6 +45,8 @@ Also a good place to talk about flavor or note questions I have for the DM about
 - Adjust Position (http://kpogl.wikidot.com/spell:adjust-position)
     - Felt thematically relevant, but is just kinda bad in retrospect.
     - Would rather have Black Ribbon or even probably just a PHB spell.
+- Mage Armor
+- Tensers Disk
 
 ### Future options (may need approval)
 - Black ribbons (http://kpogl.wikidot.com/spell:black-ribbons)
@@ -58,12 +60,7 @@ Also a good place to talk about flavor or note questions I have for the DM about
 - Threshold Slip (http://kpogl.wikidot.com/spell:threshold-slip)
     - Originally I thought this was bad, but I can bring an ally and its still a BA
     - Can I minor conjuration a door or window to use for this?
-- Rope Trick (https://dnd5e.wikidot.com/spell:rope-trick)
-    - Feels thematic but in retrospect I'd rather have taken vortex warp first and hoped to discover this later
-- Misty Step (https://dnd5e.wikidot.com/spell:misty-step)
-    - The quintessential teleporation spell at early levels
-    - Slightly more free in the sense that I dont need any kind of "space" to slip through
-    - More restrictive since I cant bring an ally
+
 - Flaming Sphere (https://dnd5e.wikidot.com/spell:flaming-sphere)
     - Conjuration spell that does damage. I'd honestly rather replace this with Boiling oil.
 
@@ -75,6 +72,12 @@ Also a good place to talk about flavor or note questions I have for the DM about
     - Yay hazards
 - Vortex Warp (https://dnd5e.wikidot.com/spell:vortex-warp)
     - Just a really good teleportation spell
+- Misty Step (https://dnd5e.wikidot.com/spell:misty-step)
+    - The quintessential teleporation spell at early levels
+    - Slightly more free in the sense that I dont need any kind of "space" to slip through
+    - More restrictive since I cant bring an ally
+- Rope Trick (https://dnd5e.wikidot.com/spell:rope-trick)
+    - Feels thematic but in retrospect I'd rather have taken vortex warp first and hoped to discover this later
 
 ## 3rd level
 This is unironically the hardest level to choose from as there are so many options for flavor, and also quintessential wizard spells like counterspell.
