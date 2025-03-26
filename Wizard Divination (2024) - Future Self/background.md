@@ -36,12 +36,12 @@
   - He befriends a human family who comes in to learn to read and write with their young son. 
 - From time-to-time he visits the public archive and reads of many thing, including elvish history and their natural ties to magic.
   - Eltaor begins to study the (limited) tomes available on magic and quickly picks up on Mage hand.
-- Eventually he meets (someone) who is connected and provides him an opportunity to meet (Important figure) in the Hall of Erudition where he is enrolled in study.
+- Eventually he meets Brueno Flintson who is connected and provides him an opportunity to meet Kalarel Entreri in the Hall of Erudition where he is enrolled in study.
 - He also would have traveled to the broader Solstyce Academy, but isn't familiar with the city outside.
 - Eltaor is well liked, and a decent enough wizard, but begins having odd dreams during his meditation.
 - These dreams bleed into his waking hours. They teach him greater magic and provide information to Eltaor - his prowess in the arcane rapidly outpaces his peers, which is noticed by teachers and students alike.
-  - One particular student takes issue with Eltaor, becoming openly hostile and eventually attacks Eltaor leading to their expulsion.
-  - This student is connected to (someone of power) in Zadash, and will likely be an important rival in the future.
+  - One particular student (Asteria Fallow) takes issue with Eltaor, becoming openly hostile and eventually attacks Eltaor leading to their expulsion.
+  - Ateria's father is the Lawmaster of Zadash, a powerful judge and legislator in the city.
 
 ## Dreams
 - Eltaor's meditation dreams have gradually shifted to become more and more haunted by visions of death and destruction. For himself, his family, and even just those in close proximity to him.
