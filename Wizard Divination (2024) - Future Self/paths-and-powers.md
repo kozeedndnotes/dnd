@@ -8,7 +8,7 @@ Elator's unique relationship with his future self may lead to opportunities to p
         - Would make Eltaor a passive sense powerhouse (20 investigation and 16 in perception or insight)
     - Skill Expert
         - Same as above
-    Eldritch Adept
+    - Eldritch Adept
         - Fun flavor if the relationship becomes more antagonistic
         - Devil sight or Eyes of the Runekeeper
 - Combat Feats
@@ -34,7 +34,7 @@ Elator's unique relationship with his future self may lead to opportunities to p
 ### Divine Transmutation
 Eltaor's reliance on his future self slowly transmutes his spells into divination spells.
 - Every long rest Eltaor can choose a spell from his book and designate it as a Divination spell regardless of its spell type.
-    - Why(?) Expert Divination allows me to cascade divination spells, but that flow gets interrupted any time I cast a non-diviation spell. It basically just gives me more flexibility in my casting without directly giving me more spells.
+    - Why(?) Expert Divination allows me to cascade divination spells, but that flow gets interrupted any time I cast a non-divination spell. It basically just gives me more flexibility in my casting without directly giving me more spells.
     - Mind Spike is the only leveled divination spell that deals damage and its concentration, meaning I can't maintain any kind of buff or control spell while using it.
 
 ### Cosmic Scribe
