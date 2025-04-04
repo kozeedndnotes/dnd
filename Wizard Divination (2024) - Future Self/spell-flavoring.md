@@ -11,7 +11,7 @@
 - Tenser's Floating Disk
     - Just a giant mirror or projection of light
 - Magic Missile
- - Mirrored shards split off, flying errantly before landing in their target(s)
+    - Mirrored shards split off, flying errantly before landing in their target(s)
 - Mage Armor
     - A more subtle application of Shield - instead of wild refractions the light hardens into a field of energy.
 
