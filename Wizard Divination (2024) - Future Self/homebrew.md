@@ -1,10 +1,8 @@
 # Homebrew Divination Spells
-
 One of the primary issues with Divination Wizard is that they lack meaningful spell selection in combat. Mind Spike is the only combat divination spell in the game and it requires concentration, which makes us far less potent as a control wizard (basically relegates me to magic missile and cantrips).
 
 ## Thoughts
-
-It would be fun to have spells that really play into the way divination wizards interact with spell slots and upcast mechanics. In many ways I think we could re-flavor existing spells with a more divination-centric tone - hopefully without impacting game balance.
+It would be fun to have spells that really play into the way divination wizards interact with spell slots and upcast mechanics. In many ways I think we could re-flavor existing spells with a more divination-centric tone - hopefully without damaging game balance.
 
 ## Combat Spells
 I don't really have any (divination) way to reliably attack a targets' physical saves or AC - which leads to me being quite unhelpful against intelligent creatures. Having a diverse kit would make combat feel more interactive.
@@ -32,7 +30,7 @@ Diviner's magic missile - same damage curve which is below avg, but guaranteed h
 
 
 ### Forewarning
-Combat Utility + weaponizes reactions that often go un-used. 
+Combat Utility + weaponizes reactions that often go un-used, allows players to choose what they do and if they consume the reaction.
 - Level: 1
 - Cast Time: 1 action
 - Range: 90 feet
@@ -46,7 +44,7 @@ Combat Utility + weaponizes reactions that often go un-used.
 - Upcast: When you cast this spell using a spell slot of 2nd or higher, for each slot level above 1st you may target an additional ally who may also use their reaction to benefit from the spell effect.
 
 ### Enhanced Study
-Combat utility - mostly just gives guidance on what I can get out of the study action since it can be vague at times. Main concern is it may slow down combat.
+Combat utility - mostly just gives guidance on what I can get out of the study action since it can be vague at times. Main concern is that it has room to slow down combat (no more than study usually does, but still).
 - Level: 0 (cantrip)
 - Cast Time: 1 bonus action
 - Range: 60 feet
