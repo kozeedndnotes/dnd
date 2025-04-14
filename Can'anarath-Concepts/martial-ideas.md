@@ -16,7 +16,7 @@ I usually don't write anything about this but I want to make sure I'm in line wi
 - Assuming an AC of 15, my echo is summoned pre-combat.
 - I have a +7 to hit, or +2 with GWM
 - Initial round:
-    - 4 attacks (1d10+14 each + 1d4+14)
+    - 4 attacks (1d10+14 (3) + 1d4+14)
     - 1d10 glaive + 1d4 glaive butt.
     - GWM: 32 (52 with advantage)
     - Base: 26 (36 with advantage)
