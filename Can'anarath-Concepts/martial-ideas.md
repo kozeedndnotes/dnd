@@ -119,3 +119,4 @@ I usually don't write anything about this but I want to make sure I'm in line wi
     - Interpose is great, but I feel a bit worried that I won't have anyone with me in melee often??
     - Def puts me at 17 AC (basically half plate baseline)
     - GWM is a 3 damage per round increase on average
+- Still also open to something that would help out saving throws, protect me from mental effects, or give me some out-of-combat versatility - the latter of which feels less important since I do get some spellcasting.
