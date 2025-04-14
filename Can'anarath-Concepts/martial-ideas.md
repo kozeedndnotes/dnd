@@ -20,10 +20,12 @@ I usually don't write anything about this but I want to make sure I'm in line wi
     - 1d10 glaive + 1d4 glaive butt.
     - GWM: 32 (52 with advantage)
     - Base: 26 (36 with advantage)
+    - At lvl 7 I get rage (+2 flat dmg per hit)
+    - At lvl 8 we get reckless attack to secure advantage
 
 ### Stats
 - Race: Goliath (any race with a +2 +1 really works)
-    - Going v.human would drop my AC by 1, but bring me online faster (start berseker 1)
+    - Going v.human would drop my AC by 1, start barb 1 -> fighter 5 to get ancestral protection a level early.
 - Str: 18 Dex: 16(+2) Con: 17(+1) Int: 9 Wis 11 Cha: 10
 - Defense fighting style + chainmail/spint start
     - Unarmored defense is actually my best bet without magical armors (18 ac + 1 from defense)
