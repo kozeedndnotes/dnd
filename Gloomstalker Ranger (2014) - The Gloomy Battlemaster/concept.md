@@ -2,7 +2,7 @@
 Just Roger.
 
 ## Background
-Roger is a wanted man - a wealthy noble in Calimshan has placed a bounty on his head after he sold them a large dog with fur puffed out to more closely resemble a direwolf. Roger tried to continue his work in the.. "livestock business" with moderate success for a while. Months passed, and Roger became too complacent after this encounter. A mercenary recognized him leaving, and ambushed his caravan a few miles from town. 
+Roger is a wanted man - a wealthy noble in Calimshan has placed a bounty on his head after he sold them a large dog with fur puffed out to more closely resemble a direwolf. Roger tried to continue his work in the.. "livestock business" with moderate success for a while. Months passed, and Roger became to complacent after this encounter. A mercenary recognized him leaving town and ambushed his caravan a few miles from town. 
 
 The mercenaries spared Roger, only because he's wanted alive, and the animals were more valuable. Roger cobbled together all of his remaining gold and made way to the Icewind Dale where he primarily hunts, otherwise keeping a low - low profile.
 
