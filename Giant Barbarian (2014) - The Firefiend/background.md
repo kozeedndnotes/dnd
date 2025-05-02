@@ -28,9 +28,9 @@ Hafit begins accompanying his father on raids to secure or reclaim their territo
 Ar'kin, now old and no longer able to fight cedes the tribe's army to Hafit, who continues to lead successful counter-raids on the BoulderFists.
 
 ### Despair (65)
-After 50 years of being beaten back by Ar'kin and now Hafit, the BoulderFists retreat and tunnel further down into the core of the earth than they ever have before. In doing so they uncover an eldritch artifact (or entity) that tempts them with power - power to destroy the Firebrands and any others that would stand in their way.
+After 20+ years of being beaten back by Ar'kin and now Hafit, the BoulderFists retreat and tunnel further down into the core of the earth than they ever have before. In doing so they gain the attention of a demonic being that tempts them with power - power to destroy the Firebrands and any others that would stand in their way.
 
-This entity grants the BoulderFists eldritch magic - and provides them a plan of attack. A small force draws Hafit and his warriors down into the mines while the primary force attacks the Firebrand's village. The Boulderfists find a foothold above the village and rain both stone and eldritch magic upon the undefended inhabitants.
+This entity grants the BoulderFists demonic magic - and provides them a plan of attack. A small force draws Hafit and his warriors down into the mines while the primary force attacks the Firebrand's village. The Boulderfists find a foothold above the village and rain both stone and eldritch magic upon the undefended inhabitants.
 
 Blood and bodies litter the streets as this corrosive magic spreads through the village. Hafit and his army return, and in a fit of pure rage attempt to engage the Boulderfists despite their defended position on the mountainside. The magic kills most of them, and those that survive are decimated by volley after volley of stone.
 
