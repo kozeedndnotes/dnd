@@ -50,5 +50,5 @@ Unsurprisingly, they had not contacted him to reconnect frivilously. His brother
 Despite his reservations Bill packs his trusty tools, and winds up his rusty companions to go out and drag his little brother back to the Seaway.. or at least somewhere safer than Shang-Ha.
 
 ### Record Scratch
-Now.. after all that, you're probably wondering how Bill got here - lying unconcious on the floor of an underwater cult / suicide circle. Great question, Bill doesn't currently know. We'll find out next time on dragon ball z.
+Now.. after all that, you're probably wondering how Bill got from the beginning of the search to his brother to here - lying unconcious on the floor of an underwater cult / suicide circle. Great question, Bill doesn't currently know. We'll find out next time on dragon ball z.
 
