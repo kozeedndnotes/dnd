@@ -26,7 +26,15 @@
 - Enhanced Defense
 - Mind Sharpener
 
+### Int-based proficency
+We gain one skill or tool proficiency per point of int bonus. 
+- Alchemists Supplies
+- Navigator's Tools
+- Glassblower's Tools
+- Mason's Tools
+- Flute
+    - yes the flute is so I can use pipes of haunting if we end up needing it at some point
+
 ## Level 2-5
 - Lvl 3 tool prof: Carpenter's Tools
 - Lvl 4 - ASI +2 int
-- No other choices to speak of.
