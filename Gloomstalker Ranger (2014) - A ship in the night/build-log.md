@@ -35,7 +35,7 @@
 - +1 Longbow (I also considered a weapon of warning, but I know that can take some of the fun out of travel if we can never be surprised..)
 - Boots of Elvenkind
 
-## Level 2
+## Levels 2-6
 
 ## Class
 - Ranger (1)
